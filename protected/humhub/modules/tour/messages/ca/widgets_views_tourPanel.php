@@ -1,7 +1,9 @@
 <?php
 return array (
-  ' Remove panel' => '',
-  '<strong>Getting</strong> Started' => '',
+  ' Remove panel' => 'Eliminar panell',
+  '<strong>Getting</strong> Started' => '
+<strong>Començar</strong> la guia
+',
   '<strong>Guide:</strong> Administration (Modules)' => '',
   '<strong>Guide:</strong> Overview' => '',
   '<strong>Guide:</strong> Spaces' => '',
